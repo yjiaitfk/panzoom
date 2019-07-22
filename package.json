@@ -1,5 +1,5 @@
 {
-  "name": "panzoom",
+  "name": "panzoom-u",
   "version": "8.1.1",
   "description": "Extensible, mobile friendly pan and zoom framework (supports DOM and SVG).",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anvaka/panzoom"
+    "url": "http://192.168.7.33:4873"
   },
   "dependencies": {
     "amator": "^1.1.0",
